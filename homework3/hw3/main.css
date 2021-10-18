@@ -1,0 +1,29 @@
+.lider {
+    text-align: center;
+    font-size: 25px;
+   padding-left: 10px;
+}
+
+.wrap {
+    background: #1c866a;
+    width: auto;
+    height: auto;
+    border-left: 5px solid black;
+}
+
+.history {
+
+    background: #69c513;
+    width: auto;
+    height: 300px;
+    border-left: 5px solid black;
+}
+
+.hit {
+    background: #98c21a;
+    width: 600px;
+    height: 550px;
+    border-left: 5px solid black;
+}
+
+
